@@ -1,4 +1,4 @@
-# SIC_2026_Cohort1
+venv\Scripts\activate# SIC_2026_Cohort1
 # 📊 Caracterización del Microemprendimiento en Chile (VIII EME 2025)
 
 ## 👥 Integrantes (Cohorte 1)
@@ -38,6 +38,32 @@ Las mujeres que se ven empujadas a emprender por *necesidad económica* (cesant�
 ---
 ## 🛠️ Requisitos e Instalación
 
+**1. Abre la carpeta del proyecto en VS Code** y abre terminal con `` Ctrl+` ``.
+
+**2. Confirma que estás en la carpeta correcta** (la que tiene `app.py`):
 ```bash
-pip install -r requirements.txt
-stream
+ls
+```
+Si no ves `app.py`, navega hasta ella con `cd SIC_2026_Cohort1-main`.
+
+**3. Crea y activa un entorno virtual:**
+```bash
+python -m venv venv
+venv\Scripts\activate
+```
+(En Mac/Linux sería `source venv/bin/activate`)
+
+**4. Instala las librerías que el proyecto realmente usa:**
+```bash
+pip install streamlit pandas numpy plotly
+```
+
+**5. Ejecuta el dashboard:**
+```bash
+streamlit run app.py
+```
+
+Se abrirá solo en el navegador (`http://localhost:8501`). Para detenerlo, `Ctrl+C` en la terminal.
+
+Notas:
+- Tienes que ejecutarlo **desde la raíz del proyecto**, porque el CSV se carga con ruta relativa (`los-santos-en-la-corte/data/dataset_limpio.csv`).
