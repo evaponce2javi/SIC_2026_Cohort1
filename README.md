@@ -13,7 +13,6 @@
 🚀 **[Link en construcción)**
 
 ---
-
 ## 📝 Descripción del Proyecto
 Este proyecto final para el curso de *Código y Programación del Samsung Innovation Campus Chile 2026* presenta un análisis interactivo y accesible del ecosistema microemprendedor en el país. 
 
@@ -32,7 +31,7 @@ El objetivo principal es traducir datos masivos de interés nacional en herramie
 * **Organismos Públicos (Sercotec, Fosis, Ministerio de la Mujer):** Para optimizar y ajustar las bases de postulación de fondos públicos hacia sectores informales vulnerables.
 * **Gremios y Municipalidades:** Para visibilizar con datos reales la situación socioeconómica de sus comunidades locales.
 ---
-## 🏆 Hallazgo Principal (Lenguaje No Técnico)
+## 🏆 Hallazgo Principal 
 Al interactuar con el ecosistema de datos, se evidencia que **la precariedad del microemprendimiento en Chile está cruzada por el género y la motivación de origen**. 
 Las mujeres que se ven empujadas a emprender por *necesidad económica* (cesantía o urgencia familiar) se concentran mayoritariamente en el sector servicios y en la informalidad laboral, percibiendo los ingresos más bajos. El análisis revela una asimetría en la focalización del Estado: los *subsidios públicos* tienden a concentrarse en emprendimientos estructurados por *oportunidad*, dejando un vacío financiero crítico para los segmentos que iniciaron por subsistencia inmediata.
 
