@@ -10,7 +10,7 @@ venv\Scripts\activate# SIC_2026_Cohort1
 * **Amaro Jofré** (GitHub: [@amarojofre])
 ---
 ## Enlace al Dashboard Interactivo
-🚀 **[Link en construcción]**
+🚀 **https://sic2026cohort1.streamlit.app/**
 
 ---
 ## Descripción del Proyecto
